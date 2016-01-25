@@ -12,3 +12,7 @@ To get this running:
 7) run npm install
 8) run bower install
 9) run grunt build
+10) Update Gruntfile.js -> rsync location (default is /var/www/html)
+11) run grunt rsync 
+
+done!
