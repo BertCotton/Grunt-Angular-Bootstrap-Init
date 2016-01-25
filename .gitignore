@@ -1,0 +1,4 @@
+bower_sources/
+node_modules/
+staging/
+dist/

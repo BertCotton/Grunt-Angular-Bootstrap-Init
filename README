@@ -1,0 +1,14 @@
+This is a bare project that is configured to use NPM and Bower to install Angular and Bootstrap
+
+
+To get this running:
+0) Update name/version in package.json and bower.json
+1) Install GIT
+2) Install Node
+3) Navigate to project
+4) Run npm install -g grunt
+5) Run npm install -g grunt-cli
+6) Run npm install -g bower
+7) run npm install
+8) run bower install
+9) run grunt build
